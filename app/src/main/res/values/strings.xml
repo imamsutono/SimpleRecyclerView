@@ -2,4 +2,7 @@
     <string name="app_name">MyRecyclerView</string>
     <string name="name">Name</string>
     <string name="remarks">Remarks</string>
+    <string name="list">List</string>
+    <string name="cardview">Cardview</string>
+    <string name="grid">Grid</string>
 </resources>
