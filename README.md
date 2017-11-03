@@ -15,7 +15,7 @@ akan muncul toast jika salah satu item diklik
         <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20list.jpeg" alt="Imam Sutono Android RecyclerView List" />
       </td>
       <td>
-        <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20grid.jpeg" alt="Imam Sutono Android RecyclerView Grid" />  
+        <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20grid.jpeg" alt="Imam Sutono Android RecyclerView Grid" />
       </td>
       <td>
         <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20cardview.jpeg" alt="Imam Sutono Android RecyclerView CardView" />
@@ -24,4 +24,4 @@ akan muncul toast jika salah satu item diklik
   </tbody>
 </table>
 
-Lihat [demo video](http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20ripple.mp4)
+lihat [demo video](http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20ripple.mp4)
