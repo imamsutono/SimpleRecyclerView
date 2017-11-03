@@ -12,16 +12,16 @@ akan muncul toast jika salah satu item diklik
   <tbody>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/17371955/32226075-1da58a2c-be7a-11e7-8ae0-45ade00d72c2.jpeg" alt="Imam Sutono Android RecyclerView List" />
+        <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20cardview.jpeg" alt="Imam Sutono Android RecyclerView List" />
       </td>
       <td>
-        <img src="https://user-images.githubusercontent.com/17371955/32226071-1d59b066-be7a-11e7-979c-a62a0e37e368.jpeg" alt="Imam Sutono Android RecyclerView Grid" />  
+        <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20cardview.jpeg" alt="Imam Sutono Android RecyclerView Grid" />  
       </td>
       <td>
-        <img src="https://user-images.githubusercontent.com/17371955/32226069-1d16e38a-be7a-11e7-8ae4-eda0ed78eb4d.jpeg" alt="Imam Sutono Android RecyclerView CardView" />
+        <img src="http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20cardview.jpeg" alt="Imam Sutono Android RecyclerView CardView" />
       </td>
     </tr>
   </tbody>
 </table>
 
-lihat [demo video](http://imamsutono.com/res/imam%20sutono%20-%20android%20recyclerview%20ripple.mp4)
+lihat [demo video](http://imamsutono.com/res/android/imam%20sutono%20-%20android%20recyclerview%20ripple.mp4)
