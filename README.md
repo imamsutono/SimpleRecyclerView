@@ -24,5 +24,4 @@ akan muncul toast jika salah satu item diklik
   </tbody>
 </table>
 
-presiden kedelapan hanya wacana :v <br/>
-namun jika anda setuju, anda bisa star dan share repo ini ke siapapun juga :)
+lihat [demo video](http://imamsutono.com/res/imam%20sutono%20-%20android%20recyclerview%20ripple.mp4)
